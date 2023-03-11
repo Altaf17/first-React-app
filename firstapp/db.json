@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "Altaf Hussain",
+      "email": "altaf@test.com",
+      "address": "Bidar"
+    },
+    {
+      "id": 2,
+      "name": "mukram",
+      "email": "mukram@test.com",
+      "address": "hyderabad"
+    },
+    {
+      "id": 4,
+      "name": "khans",
+      "email": "khans@test.com",
+      "address": "delhi"
+    },
+    {
+      "id": 5,
+      "name": "spiderman",
+      "email": "spider@test.com",
+      "address": "usa"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Md Altaf Hussain",
+      "email": "altafsky17@gmail.com",
+      "phone": "7829202701",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Md Shoukath Ahmed",
+      "email": "Shoukhath@gmail.com",
+      "phone": "123456789",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "name": "Mukram Shaikh",
+      "email": "mukram@example.com",
+      "phone": "44444444",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "name": "Sufiyan Umair",
+      "email": "sufiyan@test.com",
+      "phone": "55555",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "name": "Awais Qureshi",
+      "email": "awais@test.com",
+      "phone": "6666",
+      "isActive": true
+    }
+  ]
+}
